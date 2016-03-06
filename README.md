@@ -1,2 +1,2 @@
-# iobits
-Zero anti aliasing – pixel art icon set
+# Angular 2 Browserify Boilerplate
+Get started with Angular 2, Typescript and Browserify.
